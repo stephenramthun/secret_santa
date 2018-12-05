@@ -1,10 +1,8 @@
 # secret_santa
----
 This is a utility program for determining who should give a gift to who for
 secret santa.
 
 ## Usage
----
 `pipenv run secret_santa --email <EMAIL> --password <PASSWORD>`
 
 The EMAIL and PASSWORD arguments are the credentials needed to log in to your
